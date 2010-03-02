@@ -14,10 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.47pre4 r22446"
-   inkscape:export-filename="/home/parag0n/Desktop/hacmanmooback.png"
+   inkscape:export-filename="/home/parag0n/Documents/HACMan/Branding/Moocards/Front/hacmanmoofront.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="hacmanmoofront.svg">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -49,9 +49,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="242.86432"
-     inkscape:cy="105.29392"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="174.65994"
+     inkscape:cy="73.797737"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -82,7 +82,7 @@
        xml:space="preserve"
        id="flowRoot2924"
        style="font-size:13px;font-style:normal;font-weight:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(8.0812204,936.09309)"><flowRegion
+       transform="translate(24.08122,920.09309)"><flowRegion
          id="flowRegion2926"><rect
            id="rect2928"
            width="293.95438"
@@ -104,7 +104,7 @@
    id="flowSpan3174">http://hacman.org.uk/list/</flowSpan></flowPara></flowRoot>    <g
        id="g29"
        style="stroke:#ffffff;stroke-opacity:1;display:inline"
-       transform="matrix(0.80723277,0,0,-0.80723277,13.951423,1351.7638)"
+       transform="matrix(0.67236594,0,0,-0.67236594,73.820532,1281.8471)"
        inkscape:export-filename="/Users/parag0n/Documents/svn.hacman.org.uk/Logos/PNG/126/hackspace-white.png"
        inkscape:export-xdpi="20.968761"
        inkscape:export-ydpi="20.968761">
@@ -114,7 +114,7 @@
          id="path31" />
     </g>
     <path
-       d="m 357.18679,1038.1539 -8.23378,-0.4037 -7.91088,-1.2108 -7.66871,-1.9374 -7.34582,-2.7446 -7.02292,-3.3096 -6.61931,-4.0362 -6.13497,-4.6012 -5.73135,-5.1663 -5.16629,-5.7313 -4.60123,-6.135 -4.03616,-6.6193 -3.30966,-7.0229 -2.74459,-7.3458 -1.93736,-7.6688 -1.21085,-7.9108 -0.40361,-8.23384 0.40361,-8.15305 1.21085,-7.9916 1.93736,-7.66871 2.74459,-7.34582 3.30966,-7.02293 4.03616,-6.53858 4.60123,-6.21569 5.16629,-5.65063 5.73135,-5.16629 6.13497,-4.60123 6.61931,-4.03616 7.02292,-3.39038 7.34582,-2.66387 7.66871,-2.01808 7.91088,-1.21085 8.23378,-0.40362 8.15305,0.40362 7.9916,1.21085 7.66872,2.01808 7.34581,2.66387 7.02293,3.39038 6.61931,4.03616 6.13497,4.60123 5.73135,5.16629 5.16629,5.65063 4.60123,6.21569 3.95544,6.53858 -70.3907,38.18211 70.3907,38.18214 -3.95544,6.6193 -4.60123,6.135 -5.16629,5.7313 -5.73135,5.1663 -6.13497,4.6012 -6.61931,4.0362 -7.02293,3.3096 -7.34581,2.7446 -7.66872,1.9374 -7.9916,1.2108 -8.15305,0.4037 z"
+       d="m 359.71052,1020.633 -6.85813,-0.3363 -6.58919,-1.0085 -6.38747,-1.6137 -6.11853,-2.2861 -5.84958,-2.7566 -5.51341,-3.3619 -5.10998,-3.8324 -4.77379,-4.3032 -4.30315,-4.77374 -3.83248,-5.11001 -3.36183,-5.51339 -2.75671,-5.84956 -2.28604,-6.11852 -1.61368,-6.38755 -1.00855,-6.58912 -0.33618,-6.85818 0.33618,-6.7909 1.00855,-6.65642 1.61368,-6.38747 2.28604,-6.11853 2.75671,-5.84959 3.36183,-5.44616 3.83248,-5.17722 4.30315,-4.70656 4.77379,-4.30314 5.10998,-3.83249 5.51341,-3.36183 5.84958,-2.82394 6.11853,-2.2188 6.38747,-1.68092 6.58919,-1.00855 6.85813,-0.33618 6.7909,0.33618 6.65642,1.00855 6.38748,1.68092 6.11853,2.2188 5.84958,2.82394 5.51341,3.36183 5.10998,3.83249 4.77379,4.30314 4.30315,4.70656 3.83248,5.17722 3.2946,5.44616 -58.63032,31.80291 58.63032,31.80293 -3.2946,5.51339 -3.83248,5.11001 -4.30315,4.77374 -4.77379,4.3032 -5.10998,3.8324 -5.51341,3.3619 -5.84958,2.7566 -6.11853,2.2861 -6.38748,1.6137 -6.65642,1.0085 -6.7909,0.3363 z"
        style="fill:#e6e64c;fill-opacity:1;fill-rule:evenodd;stroke:none;display:inline"
        id="path45"
        inkscape:export-filename="/Users/parag0n/Documents/svn.hacman.org.uk/Logos/PNG/126/hackspace-white.png"
@@ -123,7 +123,7 @@
     <g
        id="g47"
        style="stroke:#ffffff;stroke-opacity:1;display:inline"
-       transform="matrix(0.80723277,0,0,-0.80723277,13.951423,1351.7638)"
+       transform="matrix(0.67236594,0,0,-0.67236594,73.820532,1281.8471)"
        inkscape:export-filename="/Users/parag0n/Documents/svn.hacman.org.uk/Logos/PNG/126/hackspace-white.png"
        inkscape:export-xdpi="20.968761"
        inkscape:export-ydpi="20.968761">
@@ -135,12 +135,12 @@
     <text
        xml:space="preserve"
        style="font-size:48px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:AlArabiya Bold"
-       x="10.203051"
-       y="906.10535"
+       x="24.203051"
+       y="916.10535"
        id="text3176"><tspan
          sodipodi:role="line"
          id="tspan3178"
-         x="10.203051"
-         y="906.10535">HACMan</tspan></text>
+         x="24.203051"
+         y="916.10535">HACMan</tspan></text>
   </g>
 </svg>

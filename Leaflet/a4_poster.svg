@@ -13,7 +13,7 @@
    height="1052.3622"
    id="svg2"
    version="1.1"
-   inkscape:version="0.47pre4 r22446"
+   inkscape:version="0.47 r22583"
    sodipodi:docname="a4_poster.svg"
    style="display:inline">
   <defs
@@ -175,14 +175,14 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
      inkscape:cx="378.98596"
-     inkscape:cy="667.58845"
+     inkscape:cy="837.29408"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer3"
      showgrid="false"
      inkscape:window-width="900"
-     inkscape:window-height="901"
+     inkscape:window-height="546"
      inkscape:window-x="8"
-     inkscape:window-y="34"
+     inkscape:window-y="25"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -205,7 +205,7 @@
        xml:space="preserve"
        id="flowRoot3280"
        style="font-size:100px;font-style:normal;font-weight:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(-6,10)"><flowRegion
+       transform="translate(-10,14)"><flowRegion
          id="flowRegion3282"><rect
            id="rect3284"
            width="524"
@@ -220,7 +220,7 @@
        xml:space="preserve"
        id="flowRoot3290"
        style="font-size:20px;font-style:normal;font-weight:normal;text-align:justify;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
-       transform="translate(0,24)"><flowRegion
+       transform="translate(0,10)"><flowRegion
          id="flowRegion3292"><rect
            id="rect3294"
            width="652"
@@ -256,9 +256,9 @@
        style="fill:#000000"
        id="rect3722"
        width="744.09998"
-       height="273.83273"
+       height="289.38907"
        x="0"
-       y="778.52942" />
+       y="762.97308" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -267,7 +267,7 @@
      style="display:inline">
     <g
        id="g3558"
-       transform="matrix(0.36635962,0,0,0.36635962,315.01399,117.84859)">
+       transform="matrix(0.30833394,0,0,0.30833394,380.51183,101.92569)">
       <g
          inkscape:export-ydpi="170.00293"
          inkscape:export-xdpi="170.00293"
@@ -358,7 +358,7 @@
     <g
        style="display:inline"
        id="g3702"
-       transform="matrix(0,0.66016651,-0.66601487,0,211.73415,744.79021)">
+       transform="matrix(0,0.66016651,-0.65043168,0,212.66591,728.79021)">
       <g
          inkscape:label="Layer 1"
          id="layer1-2"
@@ -432,7 +432,7 @@
     <g
        style="display:inline"
        id="g3702-6"
-       transform="matrix(0,0.66016651,-0.66601487,0,316.71188,744.79021)">
+       transform="matrix(0,0.66016651,-0.65043168,0,315.1874,728.79021)">
       <g
          inkscape:label="Layer 1"
          id="layer1-2-6"
@@ -506,7 +506,7 @@
     <g
        style="display:inline"
        id="g3702-5"
-       transform="matrix(0,0.66016651,-0.66601487,0,421.68962,744.79021)">
+       transform="matrix(0,0.66016651,-0.65043168,0,417.70891,728.79021)">
       <g
          inkscape:label="Layer 1"
          id="layer1-2-7"
@@ -580,7 +580,7 @@
     <g
        style="display:inline"
        id="g3702-9"
-       transform="matrix(0,0.66016651,-0.66601487,0,526.66736,744.79021)">
+       transform="matrix(0,0.66016651,-0.65043168,0,520.23041,728.79021)">
       <g
          inkscape:label="Layer 1"
          id="layer1-2-2"
@@ -654,7 +654,7 @@
     <g
        style="display:inline"
        id="g3702-64"
-       transform="matrix(0,0.66016651,-0.66601487,0,631.64509,744.79021)">
+       transform="matrix(0,0.66016651,-0.65043168,0,622.75192,728.79021)">
       <g
          inkscape:label="Layer 1"
          id="layer1-2-1"
@@ -728,7 +728,7 @@
     <g
        style="display:inline"
        id="g3702-66"
-       transform="matrix(0,0.66016651,-0.66601487,0,736.62283,744.79021)">
+       transform="matrix(0,0.66016651,-0.65043168,0,725.27342,728.79021)">
       <g
          inkscape:label="Layer 1"
          id="layer1-2-25"
@@ -802,7 +802,7 @@
     <g
        style="display:inline"
        id="g3702-3"
-       transform="matrix(0,0.66016651,-0.66601487,0,841.60058,744.79021)">
+       transform="matrix(0,0.66016651,-0.65043168,0,827.79494,728.79021)">
       <g
          inkscape:label="Layer 1"
          id="layer1-2-8"
